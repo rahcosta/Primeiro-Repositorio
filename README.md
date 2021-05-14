@@ -1,2 +1,2 @@
 # Estudos Python
- Repositório onde colocarei meus estudos do Curso em Vídeo Python.
+ Repositório onde colocarei meus estudos sobre Python.
