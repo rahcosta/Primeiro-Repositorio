@@ -1,5 +1,5 @@
 # Primeiro Repositório
-Testando... Pelo que eu percebo, algumas configurações só funcionam nos comentários.
+Testando...
 **Negrito**
 __negrito__
 *Itálico*
