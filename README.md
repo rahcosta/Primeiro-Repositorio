@@ -41,3 +41,5 @@ else:
 ```
 emoji 🖖 (coloca os dois pontos) -> https://github.com/ikatyang/emoji-cheat-sheet
 reply -> > Será que vai chover?
+
+Sintaxe Básica do Markdown: https://markdown.net.br/sintaxe-basica/
